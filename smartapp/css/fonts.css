@@ -1,0 +1,26 @@
+
+h1 	{
+	color: #fff;
+	font-family: "Raleway",100;
+	font-size: 46px;
+}
+h2 {
+	color: #fff;
+	font-family: "Myriaregular";
+	font-size: 16px;
+}
+h3 {
+	color: white;
+	font-family: "Myriaregular";
+	font-size: 13px;
+}
+.main-benefit-title h3 {
+	color: #959595;
+	font-family: "Myriaregular";
+	font-size: 18px;
+	font-style: oblique;
+	margin: 12px 0 0 8px;
+}
+p  {
+	color: #989898;
+}
